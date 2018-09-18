@@ -1,12 +1,12 @@
 /*=======================================================================
-* Template Name: BigShow
-* Template URI: http://codepassenger.com/html/bigshow
-* Author: CodePassenger
-* Author URI: http://codepassenger.com/
-* Description: BigShow - Movie / Film / Cinema Template
+* Template Name: Window TV
+* Template URI: 
+* Author: 
+* Author URI: 
+* Description: Template
 * Version: 1.1
-* License: GPL v2 or later
-* License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+* License: 
+* License URI: 
 * Tags: html, template, bigshow, video, movie, tv show, cartoon, wwe, marketing, codepassenger
 ======================================================================= */
 /* Table of content
@@ -336,7 +336,7 @@ Main Header Styles
   border: none;
   border-radius: 0;
   margin: 0;
-  background: #ff3300;
+  background: #FC6600;
   position: fixed;
   width: 100%;
   z-index: 11;
@@ -385,9 +385,11 @@ Main Header Styles
   border-color: #d8d8d8 transparent #d8d8d8 transparent;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
+  border: 1px solid #d8d8d8;
+  border-radius: 70px 0 0 70px;
 }
 .navbar-default .navbar-form [type=search]:focus {
-  border-color: #ff3300;
+  border-color: #fff ;
 }
 .navbar-default .navbar-form [type=submit] {
   float: left;
